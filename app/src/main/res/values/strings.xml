@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <!-- Add Product Activity Title-->
+    <string name="add_product">Add Product</string>
+    <!-- Product Name Hint-->
+    <string name="product_name_hint">Product Name</string>
+    <!-- Product Price Hint-->
+    <string name="product_price_hint">Price $</string>
+    <!-- Product Available Quantity Hint-->
+    <string name="product_quantity_hint">Available Quantity</string>
+    <!-- Product Sale Hint-->
+    <string name="product_sale_hint">Sale</string>
+    <!--Product Details Title-->
+    <string name="product_detail">Product Details</string>
+    <!--Upload photo hint-->
+    <string name="upload_photo">Upload Photo</string>
+    <string name="set_quantity">set Quantity</string>
+    <string name="supplier_">Supplier</string>
+    <string name="order_">Order</string>
+    <string name="delete">Delete</string>
+    <string name="dialog">Confirm your request</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_quantity_failed">Update is failed</string>
+    <string name="update_quantity_successful">Update is done</string>
+
+    <string name="delete_product_successful">Delete Product done</string>
+    <string name="delete_product_failed">Delete Product failed</string>
+    <string name="add_new_product">Add</string>
+    <string name="unsaved_changes_dialog">Save changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+</resources>
